@@ -3,4 +3,5 @@ project(Ex001)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Ex001 main.cpp)
+add_executable(Ex001
+        exercise001.cpp)
